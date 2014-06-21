@@ -15,7 +15,7 @@ cordova platform add android
 
 1. 使用 phonegap 或者 cordova cli 添加插件(建议在git客户端下使用，在windows 的cmd界面下 该命令提示git command line tool 不可用):
 ```
-cordova plugin add https://github.com/jpush/jpush-phonegap-plugin.git
+cordova plugin add https://github.com/mmtest/jpush-phonegap-plugin.git
 ```
 
 2. 修改www/config.xml文件，添加或者覆盖以下字段
