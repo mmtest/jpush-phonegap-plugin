@@ -153,7 +153,7 @@
             <receiver android:name="cn.jpush.android.service.AlarmReceiver"/>
             <!-- Required  . Enable it you can get statistics data with channel -->
             <meta-data android:name="JPUSH_CHANNEL" android:value="developer-default"/>
-            <meta-data android:name="JPUSH_APPKEY" android:value="299d0fee887820e7d90a68b2"/>
+            <meta-data android:name="JPUSH_APPKEY" android:value="a141ae6bd0856a55b7f70cd1"/>
         </config-file>
         <source-file src="src/android/jpush-sdk-release1.6.1.jar" target-dir="libs"/>
         <source-file src="src/android/libjpush.so" target-dir="libs/armeabi"/>
